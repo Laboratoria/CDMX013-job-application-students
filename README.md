@@ -14,7 +14,7 @@
 ## 1. Preámbulo
 
 Llegaste a Laboratoria para iniciar tu carrera en tecnología como desarrolladora
-web y/o U/X. Durante estos meses estarás preparándote para iniciar tu búsqueda
+web. Durante estos meses estarás preparándote para iniciar tu búsqueda
 laboral y conseguir ese primer empleo en la industria.
 
 Ya iniciaste con algunos de los proyectos en el bootcamp y para este momento te
