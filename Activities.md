@@ -40,7 +40,8 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td>Taller: Martes 6 de Septiembre, 12:30 a 1:00pm
+    <td>
+    Taller Historia de vida y habilidades transferibles: Martes 6 de Septiembre, 12:30 a 1:45pm
     Espacio grupal About me: Lunes 12 de Septiembre 1:00pm
     </td>
     <td>
@@ -127,6 +128,24 @@
     </td>
   </tr>
   <tr>
+    <td>Martes 20 de Septiembre</td>
+    <td>
+      <b>Q&A mentorías RH con el equipo</b>
+      <p>
+        Te compartiremos cómo serán las sesiones de revisión de herramientas y
+        la simulación de la entrevista de RH y podrás prepararte para esta
+        experiencia.
+      </p>
+    </td>
+    <td>
+      <ul>
+        <li>Q&A Readme del proyecto</li>
+      </ul>
+    </td>
+    <td>NA</td>
+    <td>NA</td>
+  </tr>
+  <tr>
     <td>Semana del 3 de Octubre a la semana del 10 de Octubre</td>
     <td>
       <b>Preparación entrevista RRHH</b>
@@ -153,24 +172,6 @@
             (PPT)
           </a>
         </li>
-      </ul>
-    </td>
-    <td>NA</td>
-    <td>NA</td>
-  </tr>
-  <tr>
-    <td>Martes 20 de Septiembre</td>
-    <td>
-      <b>Q&A mentorías RH con el equipo</b>
-      <p>
-        Te compartiremos cómo serán las sesiones de revisión de herramientas y
-        la simulación de la entrevista de RH y podrás prepararte para esta
-        experiencia.
-      </p>
-    </td>
-    <td>
-      <ul>
-        <li>Q&A Readme del proyecto</li>
       </ul>
     </td>
     <td>NA</td>
@@ -276,7 +277,7 @@
           Feedback de entrevistadora/or sobre
           entrevista y CV + LinkedIn.
         </li>
-        <li>Autoevaluación de entrevista y de CV + LinkedIn.</li>
+        <li> Autoevaluación de entrevista y de CV + LinkedIn. <a href="https://docs.google.com/forms/d/e/1FAIpQLSci5KwuseE56x3B8NHH3iITW5CRYtRqqUsFPO9NzlMHWQLknA/viewform?usp=sf_link">form</a> </li>
         <li>Tercera versión de CV</li>
         <li>Perfil de LinkedIn con mejoras incorporadas</li>
       </ul>
